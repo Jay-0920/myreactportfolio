@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name":"Jose Mejia",
+    "occupation":"Electronics Tech",
+    "description":"Recent grad from The University of Utah's Full Stack Web Development Bootcamp. With knowledge in Javascript, Typescript, React and Elm.",
+    "image":"profilepic.png",
+    "bio":"Hey there, my name is Jose Mejia and this is my portfolio. Let me tell you a little about me, I am 27 years old, I was raised in Ogden Utah and I did all my schooling there. I graduated from the BEST highschool, Ben Lomond High School. I am married and have been for the last 4 years, I have two kids, a young little boy who is 5 years old and my little girl who is 2 year old. I just finished my bootcamp program at the U for Web Development. I am still doing a lot of learning to be proficient with all the languages shown to me during my bootcamp program.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jaymejia.0920@gmail.com",
+    "phone": "801-856-8474",
+    "address":{
+      "city":"Vineyard",
+      "state":"Utah"
+    },
+    "website": "https://github.com/Jay-0920",
+    "resumedownload":"https://my.indeed.com/p/josem-jw020vv",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jose-mejia-3980121a3/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Jay-0920",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Univeristy of Utah",
+        "degree":"Certificate in Full Stack Web Development",
+        "graduated":"August 2020"
+      }
+    ],
+    "work":[
+      {
+        "company":"LiveView Technologies",
+        "title":"Electronics Tech",
+        "years":"May 2017 - Present",
+        "description":"I am an Electronics Tech at LiveView Technologies. I do wiring in small electronics, configure surveillance cameras, speakers, and modems. I do multiple other things all around the manufacturing side of the company. I have been working at LiveView for about 3 and a half years which has giving me the knowledge to be able to work in multiple departments within the company."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"ELM",
+        "level":"40%"
+      },
+      {
+        "name":"Git",
+        "level":"95%"
+      },
+      {
+        "name":"UI Design",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"Typescript",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"85%"
+      },
+      {
+        "name":"HTML5",
+        "level":"85%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Project 1",
+        "category":"App For Delicious Recipes-Still Under Construction",
+        "image":"img/portfolio/project1.jpg",
+        "url":"https://fftab.github.io/Grocery-List/"
+      },
+      {
+        "title":"Project 2",
+        "category":"App for Police Brutality Incidents-Still Under Construction",
+        "image":"img/portfolio/project2.png",
+        "url":"https://coronacrew.herokuapp.com/"
+      },
+      {
+        "title":"Project 3",
+        "category":"App For Presidio Real Estate-Still Under Construction",
+        "image":"public/images/portfolio/project3.jpg",
+        "url":"https://dashboard.heroku.com/apps/re-home-utah"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Bob"
+      },
+      {
+        "text":"That Jose Mejia must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve"
+      }
+    ]
+  }
+}
